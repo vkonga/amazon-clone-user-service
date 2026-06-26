@@ -1,0 +1,39 @@
+2026-06-22 16:51:51 [[31merror[39m]: Error: Cannot find module 'jsonwebtoken'
+Require stack:
+- C:\Users\rajes\.gemini\antigravity-ide\scratch\amazon-clone\user-service\src\services\auth.service.js
+- C:\Users\rajes\.gemini\antigravity-ide\scratch\amazon-clone\user-service\src\controllers\auth.controller.js
+- C:\Users\rajes\.gemini\antigravity-ide\scratch\amazon-clone\user-service\src\routes\auth.routes.js
+- C:\Users\rajes\.gemini\antigravity-ide\scratch\amazon-clone\user-service\src\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1410:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1051:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1056:22)
+    at Module._load (node:internal/modules/cjs/loader:1219:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:238:24)
+    at Module.require (node:internal/modules/cjs/loader:1493:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\rajes\.gemini\antigravity-ide\scratch\amazon-clone\user-service\src\services\auth.service.js:2:13)
+    at Module._compile (node:internal/modules/cjs/loader:1738:14)
+2026-06-22 16:59:35 [[31merror[39m]: Error: Cannot find module 'jsonwebtoken'
+Require stack:
+- C:\Users\rajes\.gemini\antigravity-ide\scratch\amazon-clone\user-service\src\services\auth.service.js
+- C:\Users\rajes\.gemini\antigravity-ide\scratch\amazon-clone\user-service\src\controllers\auth.controller.js
+- C:\Users\rajes\.gemini\antigravity-ide\scratch\amazon-clone\user-service\src\routes\auth.routes.js
+- C:\Users\rajes\.gemini\antigravity-ide\scratch\amazon-clone\user-service\src\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1410:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1051:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1056:22)
+    at Module._load (node:internal/modules/cjs/loader:1219:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:238:24)
+    at Module.require (node:internal/modules/cjs/loader:1493:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\rajes\.gemini\antigravity-ide\scratch\amazon-clone\user-service\src\services\auth.service.js:2:13)
+    at Module._compile (node:internal/modules/cjs/loader:1738:14)
+2026-06-22 17:01:20 [[31merror[39m]: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at Server.listen (node:net:2102:7)
+    at app.listen (C:\Users\rajes\.gemini\antigravity-ide\scratch\amazon-clone\user-service\node_modules\express\lib\application.js:635:24)
+    at C:\Users\rajes\.gemini\antigravity-ide\scratch\amazon-clone\user-service\src\app.js:61:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

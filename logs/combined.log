@@ -1,0 +1,22 @@
+2026-06-22 17:00:33 [[32minfo[39m]: Connected to MongoDB successfully for User Service.
+2026-06-22 17:00:33 [[32minfo[39m]: User Service is running on port 3001
+2026-06-22 17:01:20 [[32minfo[39m]: Connected to MongoDB successfully for User Service.
+2026-06-22 18:03:45 [[32minfo[39m]: Connected to MongoDB successfully for User Service.
+2026-06-22 18:03:45 [[32minfo[39m]: User Service is running on port 3001
+2026-06-22 18:04:01 [[32minfo[39m]: GET /health
+2026-06-22 18:07:39 [[32minfo[39m]: POST /api/auth/register
+2026-06-22 18:08:39 [[32minfo[39m]: Connected to MongoDB successfully for User Service.
+2026-06-22 18:08:39 [[32minfo[39m]: User Service is running on port 3001
+2026-06-22 18:09:12 [[32minfo[39m]: Connected to MongoDB successfully for User Service.
+2026-06-22 18:09:12 [[32minfo[39m]: User Service is running on port 3001
+2026-06-22 18:09:51 [[32minfo[39m]: Connected to MongoDB successfully for User Service.
+2026-06-22 18:09:51 [[32minfo[39m]: User Service is running on port 3001
+2026-06-22 18:14:07 [[32minfo[39m]: GET /health
+2026-06-22 18:17:33 [[32minfo[39m]: POST /api/auth/login
+2026-06-23 09:42:58 [[32minfo[39m]: POST /api/auth/register
+2026-06-23 09:42:58 [[32minfo[39m]: POST /api/auth/register
+2026-06-23 09:42:58 [[33mwarn[39m]: [VALIDATION_ERROR] Validation failed
+2026-06-23 09:42:58 [[32minfo[39m]: POST /api/auth/login
+2026-06-23 10:07:40 [[32minfo[39m]: Connected to MongoDB successfully for User Service.
+2026-06-23 10:07:40 [[32minfo[39m]: User Service is running on port 3001
+2026-06-23 10:10:09 [[32minfo[39m]: GET /health
